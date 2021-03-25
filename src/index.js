@@ -13,7 +13,7 @@ ReactDOM.render(
   <Auth0ProviderWithHistory>
     <App />
   </Auth0ProviderWithHistory>
-</Router>,
+</Router >,
 
   document.getElementById('root')
 );
